@@ -59,7 +59,7 @@ main {
     filter: alpha(opacity=100); /* For IE8 and earlier */
     outline-style: solid;
     outline-color: #008282;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 
 }
 h1 {
@@ -194,10 +194,11 @@ font-size: 25px;
  input,textarea {
     width: 100%;
     border: 1px solid #032c52;
-    padding: 8px;
+    padding: 12px;
     margin-top: 15px;
     margin-bottom: 15px;
      border-radius: 4px;
+    font-size: 18px;
 }
 
 button {
@@ -230,3 +231,4 @@ background-color: #0d5496
  #milk:hover,#doh:hover,#poke:hover,#ufo:hover,#man:hover {
  	opacity: .5;
  }
+
